@@ -1,0 +1,20 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="dialog_anim">
+        <item name="android:windowEnterAnimation">@anim/bind_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/bind_dialog_out</item>
+    </style>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
